@@ -20,6 +20,7 @@ namespace WebApp90311.Controllers
 
         public string Index()
         {
+            var a = 0;
             return $"Now: {DateTime.UtcNow.ToLongTimeString()}, counter: {++counter}";
         }
 
