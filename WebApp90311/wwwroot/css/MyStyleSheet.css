@@ -1,0 +1,15 @@
+﻿.selected {
+    background-color: red;
+}
+
+.italic {
+    font-style: italic
+}
+
+#list1 {
+    font-size: 32px;
+}
+
+p:hover {
+    background-color: blue;
+}
